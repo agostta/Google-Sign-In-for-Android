@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_id": "calm-dragon-123001",
+    "project_number": "92411305852",
+    "name": "Google Sign In IFSP"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92411305852:android:2b0f220d01f9f4bf",
+        "client_id": "android:in.sign.google.ifsp.com.googlesignin",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "in.sign.google.ifsp.com.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92411305852-tparr9k7rumbn1gmop34hsnsoug3gnn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.sign.google.ifsp.com.googlesignin",
+            "certificate_hash": "4C1137E8934B492005E7C87F1BBE0E4CD06FDF1E"
+          }
+        },
+        {
+          "client_id": "92411305852-n518mk58urk6u3g9hi4nmcqsm1sig2h8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
